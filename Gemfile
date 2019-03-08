@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 gem 'coffee-script-source', '1.8.0'
-gem 'bootstrap-sass'
+gem 'bootstrap-sass', '>=3.4.1'
 gem 'bcrypt'
 gem 'faker'
 gem 'will_paginate'
