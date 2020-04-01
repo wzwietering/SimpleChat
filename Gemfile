@@ -40,6 +40,7 @@ gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 gem "nokogiri", ">= 1.10.4"
+gem "actionview", ">= 5.2.4.2"
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
