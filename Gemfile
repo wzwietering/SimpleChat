@@ -7,7 +7,7 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.2.4'
+gem 'rails', '~> 5.2.6'
 # Use Puma as the app server
 gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
@@ -39,8 +39,9 @@ gem 'bcrypt'
 gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
-gem "nokogiri", ">= 1.10.4"
-gem "actionview", ">= 5.2.4.2"
+gem "nokogiri", ">= 1.12.5"
+gem "actionview", ">= 5.2.6"
+gem "actionpack", ">= 5.2.6"
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
