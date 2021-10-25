@@ -42,6 +42,7 @@ gem 'bootstrap-will_paginate'
 gem "nokogiri", ">= 1.12.5"
 gem "actionview", ">= 5.2.6"
 gem "actionpack", ">= 5.2.6"
+gem "nokogiri", ">= 1.12.5"
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
